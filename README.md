@@ -4,7 +4,7 @@ My Personal Portfolio Website
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
-<title> This is my website </title>
+<title> dhsoenwenjing.github.io </title>
 <img src="photo.jpg"/>
 <p>
 My name is Oen Wen Jing. I am a student of Dunman High School. I am currently in year 1. </p>
